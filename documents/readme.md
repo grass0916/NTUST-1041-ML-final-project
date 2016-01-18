@@ -14,17 +14,7 @@ Error rate: 0.757%
 
 ->![submission](./inline-images/submission.png =700x) <-
 
-Our project source code and submission data: [
-
-
-
-
-
-
-
-
-
-]()
+Our project source code and submission data: [https://github.com/grass0916/NTUST-1041-ML-final-project](https://github.com/grass0916/NTUST-1041-ML-final-project)
 
 ## About MNIST Dataset
 
